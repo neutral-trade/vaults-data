@@ -33873,5 +33873,49 @@
     "APYSOL": null,
     "APYWIF": null,
     "APY": null
+  },
+  "2025-04-17 19:00": {
+    "TVL_USD": 25727.852634,
+    "TVL_TOKEN": 25727.852634,
+    "SHARES": 24898.057901,
+    "PPS": 1.0333276891032803,
+    "APYBTC": null,
+    "APYETH": null,
+    "APYSOL": null,
+    "APYWIF": null,
+    "APY": null
+  },
+  "2025-04-17 19:35": {
+    "TVL_USD": 25727.736405,
+    "TVL_TOKEN": 25728.19693972522,
+    "SHARES": 24898.057901,
+    "PPS": 1.033341517721022,
+    "APYBTC": null,
+    "APYETH": null,
+    "APYSOL": null,
+    "APYWIF": null,
+    "APY": null
+  },
+  "2025-04-17 20:00": {
+    "TVL_USD": 25729.209531,
+    "TVL_TOKEN": 25729.312448249795,
+    "SHARES": 24898.057901,
+    "PPS": 1.0333863207546163,
+    "APYBTC": null,
+    "APYETH": null,
+    "APYSOL": null,
+    "APYWIF": null,
+    "APY": null
+  },
+  "2025-04-17 20:35": {
+    "TVL_USD": 25728.000154,
+    "TVL_TOKEN": 25728.95830040711,
+    "SHARES": 24898.057901,
+    "PPS": 1.0333720968402815,
+    "APYBTC": 32.70109119306414,
+    "APYETH": 4.570560900671001,
+    "APYSOL": -0.8421198567116048,
+    "APYWIF": -13.794645710835916,
+    "APY": 5.858948082438185
   }
 }
