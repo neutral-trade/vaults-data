@@ -98,5 +98,20 @@
     "FundingBTC": 0.0081,
     "FundingETH": 0.01,
     "FundingSOL": 0.001
+  },
+  "2025-10-17 07:20": {
+    "FundingBTC": 0.0084,
+    "FundingETH": 0.01,
+    "FundingSOL": 0.0012
+  },
+  "2025-10-17 07:25": {
+    "FundingBTC": 0.0087,
+    "FundingETH": 0.01,
+    "FundingSOL": 0.0012
+  },
+  "2025-10-17 07:30": {
+    "FundingBTC": 0.0091,
+    "FundingETH": 0.01,
+    "FundingSOL": 0.0015
   }
 }
