@@ -5518,5 +5518,10 @@
     "FundingBTC": 0.0037,
     "FundingETH": 0.01,
     "FundingSOL": 0.009
+  },
+  "2025-10-21 01:40": {
+    "FundingBTC": 0.0037,
+    "FundingETH": 0.01,
+    "FundingSOL": 0.0092
   }
 }
