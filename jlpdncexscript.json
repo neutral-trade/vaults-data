@@ -12203,5 +12203,45 @@
     "FundingBTC": 0.0001,
     "FundingETH": 0.0093,
     "FundingSOL": 0.0002
+  },
+  "2025-10-25 17:50": {
+    "FundingBTC": 0,
+    "FundingETH": 0.0094,
+    "FundingSOL": 0.0002
+  },
+  "2025-10-25 17:55": {
+    "FundingBTC": 0,
+    "FundingETH": 0.0096,
+    "FundingSOL": 0.0001
+  },
+  "2025-10-25 18:00": {
+    "FundingBTC": 0.0001,
+    "FundingETH": 0.0097,
+    "FundingSOL": 0.0001
+  },
+  "2025-10-25 18:05": {
+    "FundingBTC": 0.0001,
+    "FundingETH": 0.0097,
+    "FundingSOL": 0.0001
+  },
+  "2025-10-25 18:10": {
+    "FundingBTC": 0.0001,
+    "FundingETH": 0.0098,
+    "FundingSOL": 0.0002
+  },
+  "2025-10-25 18:15": {
+    "FundingBTC": 0.0002,
+    "FundingETH": 0.01,
+    "FundingSOL": 0.0006
+  },
+  "2025-10-25 18:20": {
+    "FundingBTC": 0.0002,
+    "FundingETH": 0.01,
+    "FundingSOL": 0.0007
+  },
+  "2025-10-25 18:25": {
+    "FundingBTC": 0.0001,
+    "FundingETH": 0.01,
+    "FundingSOL": 0.0008
   }
 }
